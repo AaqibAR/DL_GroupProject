@@ -1,0 +1,33 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (large files — see data/README.md for access instructions instead)
+data/raw/
+data/*.csv
+data/*.zip
+data/*.tar.gz
+
+# Model checkpoints / large weights
+*.h5
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Environment variables
+.env
