@@ -10,7 +10,7 @@
 | Naweedh  | Custom CNN    | `notebooks/custom_cnn_naweedh.ipynb` |
 | Sajalee  | ResNet50      | `notebooks/resnet50_sajalee.ipynb` |
 | Aaqib    | MobileNetV3   | `notebooks/mobilenetv3_aaqib.ipynb` |
-| TBD      | TBD (4th model) | `notebooks/model4_TBD.ipynb` |
+| Rahman   | EfficientNetb0 | `notebooks/efficientnetb0_rahman.ipynb`|
 
 ## Dataset
 
