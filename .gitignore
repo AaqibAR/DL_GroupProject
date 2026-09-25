@@ -21,6 +21,7 @@ ENV/
 
 # Data (large files — see data/README.md for access instructions instead)
 data/raw/
+data/processed/
 data/*.csv
 data/*.zip
 data/*.tar.gz
@@ -45,3 +46,6 @@ htmlcov/
 # Environment variables
 .env
 .envrc
+
+
+._*
