@@ -1,0 +1,33 @@
+{
+  "model_name": "Custom CNN",
+  "dataset": "GTSRB",
+  "seed": 42,
+  "img_size": 64,
+  "num_classes": 43,
+  "val_fraction": 0.15,
+  "batch_size": 32,
+  "max_epochs": 30,
+  "early_stopping_patience": 5,
+  "checkpoint": "lowest validation loss",
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "loss": "sparse categorical cross-entropy",
+  "output": "43 neurons + softmax",
+  "pretrained_weights": null,
+  "aug_rotation_deg": 10,
+  "aug_shift": 0.1,
+  "aug_zoom": 0.1,
+  "aug_brightness": 0.2,
+  "aug_flips": false,
+  "conv_channels": [
+    32,
+    64,
+    128
+  ],
+  "conv_dropout": 0.2,
+  "dense_units": 256,
+  "fc_dropout": 0.5,
+  "train_size": 33327,
+  "val_size": 5882,
+  "test_size": 12630
+}
