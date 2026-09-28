@@ -30,6 +30,8 @@ This will:
        so every notebook just does: np.load("data/processed/gtsrb_data.npz")
 """
 
+import utils.transport
+import utils.session
 import os
 import numpy as np
 import pandas as pd
