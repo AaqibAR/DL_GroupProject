@@ -1,0 +1,15 @@
+{
+  "model": "resnet50",
+  "seed": 42,
+  "image_size": 64,
+  "batch_size": 32,
+  "phase1_epochs_ran": 15,
+  "phase2_epochs_ran": 15,
+  "lr_phase1": 0.001,
+  "lr_phase2": 1e-05,
+  "selected_checkpoint": "..\\results\\resnet50_phase2_best.keras",
+  "test_accuracy": 0.9501979414093429,
+  "macro_precision": 0.9326782172875417,
+  "macro_recall": 0.9130983122502333,
+  "macro_f1": 0.9197860296260224
+}
