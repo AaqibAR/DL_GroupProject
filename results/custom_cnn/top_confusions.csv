@@ -1,0 +1,16 @@
+true_id,pred_id,count,true,predicted,% of true class
+11,30,12,Right-of-way at next intersection,Beware of ice/snow,2.86
+12,15,8,Priority road,No vehicles,1.16
+21,31,5,Double curve,Wild animals crossing,5.56
+18,31,3,General caution,Wild animals crossing,0.77
+12,13,3,Priority road,Yield,0.43
+6,33,3,End of speed limit (80km/h),Turn right ahead,2.0
+30,11,2,Beware of ice/snow,Right-of-way at next intersection,1.33
+18,26,2,General caution,Traffic signals,0.51
+25,31,2,Road work,Wild animals crossing,0.42
+6,42,2,End of speed limit (80km/h),End of no passing by vehicles over 3.5t,1.33
+6,41,2,End of speed limit (80km/h),End of no passing,1.33
+6,32,2,End of speed limit (80km/h),End of all speed and passing limits,1.33
+30,23,2,Beware of ice/snow,Slippery road,1.33
+3,5,2,Speed limit (60km/h),Speed limit (80km/h),0.44
+22,29,1,Bumpy road,Bicycles crossing,0.83
