@@ -1,0 +1,44 @@
+class_id,class,train,val,test
+0,Speed limit (20km/h),179,31,60
+1,Speed limit (30km/h),1887,333,720
+2,Speed limit (50km/h),1912,338,750
+3,Speed limit (60km/h),1198,212,450
+4,Speed limit (70km/h),1683,297,660
+5,Speed limit (80km/h),1581,279,630
+6,End of speed limit (80km/h),357,63,150
+7,Speed limit (100km/h),1224,216,450
+8,Speed limit (120km/h),1198,212,450
+9,No passing,1249,221,480
+10,No passing for vehicles over 3.5t,1708,302,660
+11,Right-of-way at next intersection,1122,198,420
+12,Priority road,1785,315,690
+13,Yield,1836,324,720
+14,Stop,663,117,270
+15,No vehicles,535,95,210
+16,Vehicles over 3.5t prohibited,357,63,150
+17,No entry,943,167,360
+18,General caution,1020,180,390
+19,Dangerous curve left,179,31,60
+20,Dangerous curve right,306,54,90
+21,Double curve,281,49,90
+22,Bumpy road,332,58,120
+23,Slippery road,433,77,150
+24,Road narrows on the right,230,40,90
+25,Road work,1275,225,480
+26,Traffic signals,510,90,180
+27,Pedestrians,204,36,60
+28,Children crossing,459,81,150
+29,Bicycles crossing,230,40,90
+30,Beware of ice/snow,382,68,150
+31,Wild animals crossing,663,117,270
+32,End of all speed and passing limits,204,36,60
+33,Turn right ahead,586,103,210
+34,Turn left ahead,357,63,120
+35,Ahead only,1020,180,390
+36,Go straight or right,332,58,120
+37,Go straight or left,179,31,60
+38,Keep right,1759,311,690
+39,Keep left,255,45,90
+40,Roundabout mandatory,306,54,90
+41,End of no passing,204,36,60
+42,End of no passing by vehicles over 3.5t,204,36,90
