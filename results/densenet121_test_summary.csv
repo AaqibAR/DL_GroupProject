@@ -1,0 +1,2 @@
+model,total_params,trainable_params_phase1,trainable_params_phase2,epochs_phase1,epochs_phase2,training_minutes,val_accuracy,val_loss,test_accuracy,test_loss,test_macro_precision,test_macro_recall,test_macro_f1,ms_per_photo_T4_batch32,model_file_MB
+DenseNet121,6997931,44075,2204203,25,30,63.6,0.8996939816388984,0.29039043805602455,0.7171021377672209,1.045056263102761,0.6635141950874598,0.6348471382005254,0.6381561565312549,0.8112092316150665,28.6
